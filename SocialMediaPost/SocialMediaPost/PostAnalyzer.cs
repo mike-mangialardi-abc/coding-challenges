@@ -7,7 +7,7 @@
      * 
      * A shell of the PostAnalyzer class is provided for you, and your job is to implement the following methods:
      * - GetIndividualWordCount(string word): Get the word count for the input word (the example below has 2 occurrences of the word "the")
-     * - GetDistinctWordCount(): Get the total number of distinct words (the example above has 7 distinct words)
+     * - GetDistinctWordCount(): Get the total number of distinct words (the example below has 7 distinct words)
 `    *
      * Example: "The brown dog barked at the young boy."
      * - GetDistinctWordCount() => 7
