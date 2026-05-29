@@ -1,6 +1,6 @@
-# Coding Challenges — Entry-Level Engineer Interview
+# Coding Challenges
 
-Three interchangeable take-home-style coding problems for evaluating entry-level software engineering candidates during a live technical interview.
+Three interchangeable take-home-style coding problems for evaluating software engineering candidates during a live technical interview.
 
 Each challenge is:
 
