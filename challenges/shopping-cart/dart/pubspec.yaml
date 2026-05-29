@@ -1,0 +1,10 @@
+name: shopping_cart_challenge
+description: Entry-level coding challenge — implement a small shopping cart.
+publish_to: none
+version: 0.0.1
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  test: ^1.25.0

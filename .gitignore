@@ -1,2 +1,38 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# C# / .NET
 bin/
 obj/
+*.user
+
+# Node / TypeScript
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Java / Maven
+target/
+
+# Ruby
+.bundle/
+vendor/bundle/
+Gemfile.lock
+
+# Dart
+.dart_tool/
+.packages
+pubspec.lock

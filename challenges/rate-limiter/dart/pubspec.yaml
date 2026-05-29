@@ -1,0 +1,10 @@
+name: rate_limiter_challenge
+description: Rate Limiter coding challenge.
+publish_to: none
+version: 0.0.1
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  test: ^1.25.0
